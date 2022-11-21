@@ -3,7 +3,7 @@ My current ESLint configuration.
 ## Installation
 
 ```
-npm install @redac/eslint-config --dev
+npm install -D @redac/eslint-config
 ```
 
 ## Usage

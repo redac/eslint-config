@@ -1,15 +1,19 @@
 {
   "name": "@redac/eslint-config",
-  "version": "1.0.0",
-  "description": "My current ESlint configuration",
+  "version": "0.0.1",
+  "description": "My current ESLint configuration",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "eslint",
     "config"
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "Reda K",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^2.26.0",
+    "typescript": "^4.9.3"
+  }
 }

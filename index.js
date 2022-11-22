@@ -7,11 +7,7 @@ module.exports = {
       },
     },
   },
-  extends: [
-    "plugin:react/recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier",
-  ],
+  extends: ["plugin:@typescript-eslint/recommended", "prettier"],
   rules: {
     quotes: [
       "error",

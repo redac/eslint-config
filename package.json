@@ -10,7 +10,8 @@
   "author": "Reda K",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.28.0"
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
   },
   "dependencies": {
     "eslint-plugin-import": "^2.26.0",

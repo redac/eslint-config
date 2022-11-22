@@ -7,7 +7,11 @@ module.exports = {
       },
     },
   },
-  extends: ["plugin:@typescript-eslint/recommended", "prettier"],
+  extends: [
+    "plugin:@typescript-eslint/recommended",
+    "@react-native-community",
+    "prettier",
+  ],
   rules: {
     quotes: [
       "error",

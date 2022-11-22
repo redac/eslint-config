@@ -10,10 +10,10 @@
   "author": "Reda K",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.28.0",
-    "eslint-plugin-react": "^7.31.11"
+    "eslint": "^8.28.0"
   },
   "dependencies": {
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "typescript": "^4.9.3"
   }
